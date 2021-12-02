@@ -1,0 +1,16 @@
+﻿  CustomExpressionEvaluator.cpp
+C:\Users\ASRock\Desktop\Лаба3 плюсы Пащенко\ex1_var1\CustomExpressionEvaluator.cpp(20,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ASRock\Desktop\Лаба3 плюсы Пащенко\ex1_var1\CustomExpressionEvaluator.cpp(54,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  ExpressionEvaluator.cpp
+C:\Users\ASRock\Desktop\Лаба3 плюсы Пащенко\ex1_var1\ExpressionEvaluator.cpp(12,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  ILoggable.cpp
+  IShuffle.cpp
+  main.cpp
+  Multiplier.cpp
+C:\Users\ASRock\Desktop\Лаба3 плюсы Пащенко\ex1_var1\Multiplier.cpp(21,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ASRock\Desktop\Лаба3 плюсы Пащенко\ex1_var1\Multiplier.cpp(48,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Subtractor.cpp
+C:\Users\ASRock\Desktop\Лаба3 плюсы Пащенко\ex1_var1\Subtractor.cpp(21,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ASRock\Desktop\Лаба3 плюсы Пащенко\ex1_var1\Subtractor.cpp(48,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  ex1_var1.vcxproj -> C:\Users\ASRock\Desktop\Лаба3 плюсы Пащенко\x64\Debug\ex1_var1.exe
